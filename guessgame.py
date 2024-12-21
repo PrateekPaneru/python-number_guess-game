@@ -1,6 +1,6 @@
 import random
 randnumber =random.randint(1,100)
-print(randnumber)
+# print(randnumber)  #answer of the guess
 user=None
 guesses=0
 while (user != randnumber):
